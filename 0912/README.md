@@ -34,7 +34,7 @@ Figma를 처음 사용하기에 알아가려는 목적으로 Figma에 대해 조
 4. 파일을 생성하여 작업을 진행합니다.
 5. 또는, 데스크탑 프로그램을 다운받아 피그마를 사용 할 수 있습니다.
 
-![image](https://github.com/baesub/Tue_Report/assets/113866062/e3dafeea-af59-4869-8896-3a61e1140cc0)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/91738cdb-5904-460b-82de-517f3d98c853)
 
 
 <br>
