@@ -34,13 +34,14 @@ Figma를 처음 사용하는 김에 알아가려는 목적으로 Figma를 소개
 4. 파일을 생성하여 작업을 진행합니다.
 5. 또는, 데스크탑 프로그램을 다운받아 피그마를 사용 할 수 있습니다.
 
-![image](https://github.com/baesub/Tue_Report/assets/113866062/c9d01679-6a91-4aab-8c2c-9ad7f96d4d1b)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/e3dafeea-af59-4869-8896-3a61e1140cc0)
+
 
 <br>
 
 
-3. 피그마 사용 방법
-<br>
+# 3. 피그마 사용 방법
+
 ## 기초적인 피그마 사용법
 1. 계정 생성 및 로그인Figma 웹사이트에 접속하고 계정을 생성하거나 로그인합니다.
 2. 프로젝트 생성대시보드에서 “New File” 새 프로젝트를 생성합니다.
