@@ -2,23 +2,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=Figma로%20페이지%203개%20기획하기&fontSize=40)
 
-# Figma를 소개하는 웹사이트를 Figma를 이용해 제작해보았습니다.
+### Figma를 소개하는 웹사이트 디자인을 Figma를 이용해 제작해보았습니다.
 
-1 페이지 - 홈 (간단한 피그마 소개)
+*1 페이지 - 홈 (간단한 피그마 소개)
 <br>
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/8eecc3b3-465b-4e58-9fb3-e96946f0da10)
 
 <br>
 
 
-2 페이지 - 피그마 설치 방법 (웹브라우저 및 전용 클라이언트 사용법)
+*2 페이지 - 피그마 설치 방법 (웹브라우저 및 전용 클라이언트 사용법)
 <br>
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/c9d01679-6a91-4aab-8c2c-9ad7f96d4d1b)
 
 <br>
 
 
-3 페이지 - 피그마 사용 방법 (계정 생성부터 파일 내보내기까지 간단한 가이드)
+*3 페이지 - 피그마 사용 방법 (계정 생성부터 파일 내보내기까지 간단한 가이드)
 <br>
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/52755e3f-bf83-457e-a1b7-ce229d546001)
 
