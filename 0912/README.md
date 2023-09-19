@@ -3,15 +3,16 @@
 
 # Figma로 페이지 3개 기획하기
 
-## 1page
+## 1page - 홈 (피그마 소개)
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/e5a57879-88d7-425f-ad5a-929b246619c7)
 
 
 
-## 2page
-![image](https://github.com/baesub/Tue_Report/assets/113866062/57cf02af-8b01-4c35-8de3-6077b6ab923f)
+## 2page - 피그마 설치 방법 (웹브라우저 및 전용 클라이언트 사용법)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/9130bd1a-0269-4c22-bf36-2b7f6d027873)
 
 
 
-## 3page
+
+## 3page - 피그마 사용 방법 (계정 생성부터 파일 내보내기까지 간단한 가이드)
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/cf0a524c-6ff5-480f-98fa-c321fad01ca3)
