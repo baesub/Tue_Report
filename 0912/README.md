@@ -3,7 +3,7 @@
 # <a href="https://baesub.github.io/Tue_Report/0912/first_figma.html"> Github </a>
 # <a href="https://app.zeplin.io/project/6505aef75cc5ee0d09c7d8be"> Zeplin </a>
 
-Figma를 처음 사용하기에 알아가려는 목적으로 Figma에 대해 조사해보며 소개하는 웹사이트 디자인을 Figma를 이용해 제작해보았습니다.
+Figma를 처음 사용하기에 알아가기위한 목적으로 Figma에 대해 조사해보며 소개하는 웹사이트 디자인을 Figma를 이용해 제작해보았습니다.
 <br> (폰트나 아이콘 호환으로 인해 Zeplin으로 접속하시는 것을 추천드립니다.)
 
 # 1. 피그마 소개 
