@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Figma로%20페이지%203개%20기획하기&fontSize=50)
 
-### Figma를 소개하는 웹사이트 디자인을 Figma를 이용해 제작해보았습니다.
+### 처음 사용하는 김에 알아가보려는 목적으로 Figma를 소개하는 웹사이트 디자인을 Figma를 이용해 제작해보았습니다.
 
 # 1. 피그마 소개: <br>
 피그마(Figma)란?피그마는 온라인에서 사용할 수 있는 디자인 툴로, UX/UI 디자인 및 프로토타입 제작을 위한 기능들을 제공합니다. 웹・앱・인터페이스 디자인 등 다양한 분야에서 사용되며, 디자인과 개발 과정에서 필요한 여러 협업 기능을 지원합니다.
