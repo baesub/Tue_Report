@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=20230912%20report&fontSize=50)
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=Figma로%20페이지%203개%20기획하기&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=텍스트&fontSize=40)
 # Figma로 페이지 3개 기획하기
 
 ## 1 페이지 - 홈 (피그마 소개)
