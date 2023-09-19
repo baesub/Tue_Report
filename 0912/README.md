@@ -1,16 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=20230912%20report&fontSize=50)
-
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=100&section=header&text=Figma로%20페이지%203개%20기획하기&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=20230912%20report<br>Figma로%20페이지%203개%20기획하기&fontSize=50)
 
 ### Figma를 소개하는 웹사이트 디자인을 Figma를 이용해 제작해보았습니다.
 
-1 페이지 - 홈 (간단한 피그마 소개)
-<br>
-### 피그마 소개:<br>
+## 1. 피그마 소개: <br>
 피그마(Figma)란?피그마는 온라인에서 사용할 수 있는 디자인 툴로, UX/UI 디자인 및 프로토타입 제작을 위한 기능들을 제공합니다. 웹・앱・인터페이스 디자인 등 다양한 분야에서 사용되며, 디자인과 개발 과정에서 필요한 여러 협업 기능을 지원합니다.
-
 <br>
-
 우리가 figma를 사용하는 이유
 1. 강력한 협업 툴: 피그마는 여러 사용자가 동시에 협업할 수 있어 디자인 프로젝트의 실시간 공동작업을 용이하게 합니다. 동료들과 함께 디자인 수정, 리뷰 및 피드백을 즉시 공유하세요.
 2. 웹 기반 접근: 피그마는 웹 브라우저에서 작동하므로 어디서든 접근 가능하며, 특정 운영체제나 장치에 제한되지 않습니다. 작업 환경을 자유롭게 선택하세요.
