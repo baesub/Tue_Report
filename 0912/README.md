@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=20230912%20report%20Figma로%20페이지%203개%20기획하기&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Figma로%20페이지%203개%20기획하기&fontSize=50)
 
 ### Figma를 소개하는 웹사이트 디자인을 Figma를 이용해 제작해보았습니다.
 
