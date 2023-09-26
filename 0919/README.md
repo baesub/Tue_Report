@@ -1,7 +1,8 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=css%20Portfolio&fontAlign=70&rotate=13&fontAlignY=25&desc=20230919&descAlignY=44)
 
 # 홍길동의 이력서 css 편집하기
-## <a href="0919/sourcecode/index.html"> 0919 Report </a> <br>
+
+<a href="0919/sourcecode/index.html"> 0919 Report </a> <br>
 
 # 변경사항
 1. transition을 이용해 마우스 오버 시 시계 방향으로 회전하면서 배경색과 글자색이 변경되도록 수정
