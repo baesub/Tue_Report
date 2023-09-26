@@ -19,13 +19,13 @@
 
 
 
-## 기본 정보
+## 기본 정보 부분
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/41c4c8cd-3469-44de-ba0c-ceeacd6cdbc5)
 
 
 
 
-## 각 프로젝트 iframe 및 하이퍼링크
+## 각 프로젝트 iframe 및 하이퍼링크 부분
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/aeaf261d-f535-4023-aeca-fbbe3d0a369c)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
