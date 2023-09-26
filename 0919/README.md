@@ -20,7 +20,8 @@
 
 
 ## 기본 정보
-![Uploading image.png…]()
+![image](https://github.com/baesub/Tue_Report/assets/113866062/f3f769e7-de3b-41db-a5a4-4535683ea1f0)
+
 
 
 ## 각 프로젝트 iframe 및 하이퍼링크
