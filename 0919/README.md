@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Css%20Portfolio&fontAlign=70&rotate=13&fontAlignY=25&desc=descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Css%20Portfolio&fontAlign=70&rotate=13&fontAlignY=25&desc=20230919&descAlignY=44)
 
 # 홍길동의 이력서 css 편집하기
 
