@@ -5,7 +5,7 @@
 # <a href="https://baesub.github.io/Tue_Report/0919/sourcecode/index.html"> Github </a>
 
 # 변경사항
-1. transition을 이용해 마우스 오버 시 시계 방향으로 회전하면서 배경색과 글자색, 글자 크기가 변경되도록 수정
+1. transition을 이용해 마우스 오버 시 시계 방향으로 회전하면서 배경색과 글자색, 글자 크기가 변경되도록 수정 (전환과 애니메이션)
 2. 배경색 그라디언트로 변경
 3. 각 섹션의 글자 크기 수정
 4. about 섹션에 내 각오를 영문으로 첨부
