@@ -20,7 +20,8 @@
 
 
 ## 기본 정보
-![image](https://github.com/baesub/Tue_Report/assets/113866062/f3f769e7-de3b-41db-a5a4-4535683ea1f0)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/41c4c8cd-3469-44de-ba0c-ceeacd6cdbc5)
+
 
 
 
