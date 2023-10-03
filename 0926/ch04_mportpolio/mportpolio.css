@@ -1,0 +1,175 @@
+﻿
+  @import url('https://fonts.googleapis.com/css2?family=Moirai+One&family=Noto+Sans+KR&display=swap');
+
+
+
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+
+/* 스타일 초기화 */
+* { font-family: NotoSansKR; margin: 0px ; padding: 0px ;}
+header, body, footer { font-size: 14px; font-family: 나눔고딕,굴림,돋음,'Times New Roman',serif; width: 100%; }
+header, footer { text-align : center ; }
+body { margin: auto; }
+footer { position: fixed; bottom: 0px; }
+
+/* 공통 스타일 */
+h1 { padding: 15px; font-size: 32px ; color: white; font-family: Moirai One;}
+h2 { font-size: 15px; color: white; }
+h3 { margin: 10px; font-size: 15px; color: rgb(10, 10, 10); text-shadow: 4px 4px 7px rgb(154, 156, 255); font-weight: 550; }
+h1, h2 { background-image: linear-gradient(rgb(0, 21, 255),rgb(183, 2, 255)); background-repeat: repeat-x; }
+
+img { border: 0; padding: 2px; }
+
+/* nav { margin: 5px 5px; } */
+
+
+/* 메뉴바 */
+
+/* Reset some default styles */
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Style the menu container */
+.menu {
+    background-color: #000000;
+	font-size: 17px;
+}
+
+/* Style the menu items */
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0;
+}
+
+.menu li {
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+/* Change the background color of menu items on hover */
+.menu a:hover {
+    background-color: #555;
+}
+
+
+nav > span > a { font-style: bold; margin: 0 ; padding: 3px; border: 2px solid purple; float: right; text-decoration: none; background: purple; color: white; }
+nav > span > a:hover { background: #ff00ff; color: white; }
+@media only screen and (min-width: 321px) and (orientation: landscape) {
+	section { width: 80%; float: left; }
+	aside { width: 20%; text-align: center; float: right; }
+	footer { clear: both;  }
+}
+.content  { clear: both; }
+.section1 ul li { list-style-position: inside; list-style-image: url("li.jpg"); }
+
+/* mintro.html 적용 스타일 */
+#stu-pic { width: 7em; height: 7em; float: left; }
+
+/* minfo.html 적용 스타일 */
+#year-table { table-layout: auto; width: 80%; border-collapse: seperate; }
+#year-table thead { background: #E4F2D0; }
+#logo { position: fixed; top:130px; left: 70px; 
+	padding-left:300px;
+	padding-top: 70px;
+	opacity: 0.1; } 
+
+/* mstudy.html 적용 스타일 */
+video { margin: 5px; width: 300px; height: 200px; }
+
+/* mcareer.html 적용 스타일 */
+.semi-pic { width: 4em; height: 3em;  }
+#pic-container { overflow: hidden; }
+#pic-container:hover { height: 220px; }
+#pic1:hover { -webkit-transform: translate(150px,50px) scale(7,7); transform: scale(0.5); }
+#pic2:hover { -webkit-transform: translate(100px,50px) scale(7,7) ; transform: scale(0.5); }
+#pic3:hover { -webkit-transform: translate(30px,50px) scale(7,7); transform: scale(0.5); }
+
+/* 테이블 전체 스타일 */
+#year-table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  /* 테이블 헤더 스타일 */
+  #year-table th {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  /* 테이블 데이터 셀 스타일 */
+  #year-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+  }
+  
+  /* 짝수 행 배경색 지정 */
+  #year-table tbody tr:nth-child(even) {
+    background-color: #f5f5f5;
+  }
+  
+  /* 홀수 행 배경색 지정 */
+  #year-table tbody tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+  
+
+
+  /* 섹션 스타일 */
+.section1 {
+    /* background-color: #f7f7f7; 배경색 지정 */
+    background-color: #f8f8f8;
+    padding: 20px; /* 여백 추가 */
+    border-radius: 8px; /* 모서리를 둥글게 만듦 */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 추가 */
+    overflow: hidden; /*내용이 넘칠 경우 숨김 처리 */
+  
+  }
+  
+  /* 제목 스타일 */
+  .section1 h3 {
+    font-size: 24px; /* 제목 폰트 크기 조정 */
+    margin-bottom: 10px; /* 아래 여백 추가 */
+  }
+  
+  /* 이미지 스타일 */
+  #stu-pic {
+    max-width: 100px; /* 이미지 최대 너비 제한 */
+    border-radius: 50%; /* 이미지를 동그랗게 만듦 */
+    margin-right: 20px; /* 오른쪽 여백 추가 */
+    float: left; /* 이미지를 왼쪽으로 띄움 */
+  }
+  
+  /* 문단 스타일 */
+  .section1 p {
+    font-size: 15px; /* 문단 폰트 크기 조정 */
+    line-height: 1.5; /* 줄 간격 설정 */
+    text-align: justify; /* 텍스트를 양쪽 맞춤으로 정렬 */
+    margin-top: 0; /* 위 여백 제거 */
+    margin-bottom: 10px; /* 아래 여백 추가 */
+  }
+  
+  /* 미디어 쿼리를 사용하여 화면 너비에 따라 스타일 조정 */
+  @media (max-width: 768px) {
+    .section1 {
+      padding: 10px; /* 화면이 좁아질 때 여백 축소 */
+    }
+    #stu-pic {
+      max-width: 150px; /* 이미지 크기 축소 */
+    }
+  }
+  
