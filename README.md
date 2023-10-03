@@ -4,8 +4,8 @@
 # <a href="https://baesub.github.io/Tue_Report/index.html"> Github </a>
 
 
-|날짜|프로젝트|주소|
+|날짜|프로젝트명|주소|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|0912|Figma|https://baesub.github.io/Tue_Report/0912/first_figma.html|
+|0919|홍길동의 이력서 css 편집하기|https://baesub.github.io/Tue_Report/0919/sourcecode/index.html|
+|0926|HTML5 개인 포트폴리오 홈페이지 css 편집하기|https://baesub.github.io/Tue_Report/0926/ch04_mportpolio/mintro.html|
