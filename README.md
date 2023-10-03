@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200§ion=header&text=Tue%20Report&fontSize=50)
 
 
-|날짜|프로젝트|
+|날짜|Report|
 |------|---|
 |0912|<a href="https://baesub.github.io/Tue_Report/0912/first_figma.html">Figma로 페이지 3개 기획하기</a>|
 |0919|<a href="https://baesub.github.io/Tue_Report/0919/sourcecode/index.html">홍길동의 이력서 css 편집하기</a>|
