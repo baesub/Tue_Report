@@ -133,43 +133,43 @@ video { margin: 5px; width: 300px; height: 200px; }
 .section1 {
     /* background-color: #f7f7f7; 배경색 지정 */
     background-color: #f8f8f8;
-    padding: 20px; /* 여백 추가 */
-    border-radius: 8px; /* 모서리를 둥글게 만듦 */
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* 그림자 효과 추가 */
-    overflow: hidden; /*내용이 넘칠 경우 숨김 처리 */
+    padding: 20px; 
+    border-radius: 8px; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); 
+    overflow: hidden; 
   
   }
   
   /* 제목 스타일 */
   .section1 h3 {
-    font-size: 24px; /* 제목 폰트 크기 조정 */
-    margin-bottom: 10px; /* 아래 여백 추가 */
+    font-size: 24px; 
+    margin-bottom: 10px; 
   }
   
   /* 이미지 스타일 */
   #stu-pic {
-    max-width: 100px; /* 이미지 최대 너비 제한 */
-    border-radius: 50%; /* 이미지를 동그랗게 만듦 */
-    margin-right: 20px; /* 오른쪽 여백 추가 */
-    float: left; /* 이미지를 왼쪽으로 띄움 */
+    max-width: 100px; 
+    border-radius: 50%; 
+    margin-right: 20px; 
+    float: left; 
   }
   
   /* 문단 스타일 */
   .section1 p {
-    font-size: 15px; /* 문단 폰트 크기 조정 */
-    line-height: 1.5; /* 줄 간격 설정 */
-    text-align: justify; /* 텍스트를 양쪽 맞춤으로 정렬 */
-    margin-top: 0; /* 위 여백 제거 */
-    margin-bottom: 10px; /* 아래 여백 추가 */
+    font-size: 15px; 
+    line-height: 1.5; 
+    text-align: justify; 
+    margin-top: 0; 
+    margin-bottom: 10px; 
   }
   
-  /* 미디어 쿼리를 사용하여 화면 너비에 따라 스타일 조정 */
+
   @media (max-width: 768px) {
     .section1 {
-      padding: 10px; /* 화면이 좁아질 때 여백 축소 */
+      padding: 10px;
     }
     #stu-pic {
-      max-width: 150px; /* 이미지 크기 축소 */
+      max-width: 150px; 
     }
   }
   
