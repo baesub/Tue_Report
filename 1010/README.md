@@ -2,7 +2,7 @@
 
 # HTML5 포트폴리오 header에 js 추가하기
 
-(깃허브에서 자바스크립트가 적용되어 나오지 않아 영상 파일을 업로드 해두었습니다. 시연은 영상 파일 시청 바랍니다.)
+### (깃허브에서 자바스크립트가 적용되어 나오지 않아 영상 파일을 업로드 해두었습니다. 시연은 영상 파일 시청 바랍니다.)
 # <a href="https://baesub.github.io/Tue_Report/1010/ch04_mportpolio/mintro.html"> Github </a>
 
 # 변경 (추가한) 코드
