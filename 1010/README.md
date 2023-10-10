@@ -9,5 +9,5 @@
 ## min.js 추가 수정
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/7b19ac3e-c031-4c8e-a0f2-ea01a279c5e6)
 
-![image](https://github.com/baesub/Tue_Report/assets/113866062/3b6caf1d-75bd-49f8-bde2-ff8074279532)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/63b393e4-9803-4d77-995c-71a9a5e5a620)
 
