@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=css%20Portfolio&fontAlign=20&rotate=13&fontAlignY=25&desc=20230919&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=css%20Portfolio&fontAlign=70&rotate=13&fontAlignY=25&desc=20230919&descAlignY=44)
 
 # HTML5 포트폴리오 header에 js 추가하기
 
