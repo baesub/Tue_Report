@@ -5,5 +5,5 @@
 # <a href="https://baesub.github.io/Tue_Report/1010/ch04_mportpolio/mintro.html"> Github </a>
 
 # 변경 (추가한) 코드
-- min.js <div> 추가 수정
+## min.js 추가 수정
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/7b19ac3e-c031-4c8e-a0f2-ea01a279c5e6)
