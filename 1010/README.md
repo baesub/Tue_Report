@@ -10,4 +10,3 @@
 # min.css 추가 수정
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/63b393e4-9803-4d77-995c-71a9a5e5a620)
 
-
