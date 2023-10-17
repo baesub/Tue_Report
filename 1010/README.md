@@ -2,5 +2,5 @@
 
 # HTML5 개인 포트폴리오 홈페이지 header에 js 추가하기
 
-# <a href="https://baesub.github.io/Tue_Report/1010/ch04_mportpolio/mintro.html"> Github </a>
+# <a href="https://baesub.github.io/Tue_Report/1010/mintro.html"> Github </a>
 
