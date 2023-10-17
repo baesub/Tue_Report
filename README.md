@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200§ion=header&text=Tue%20Report&fontSize=50)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=js%20추가하기&fontAlign=70&rotate=13&fontAlignY=25&desc=20231010&descAlignY=44)
 
+# HTML5 개인 포트폴리오 홈페이지 header에 js 추가하기
 
-|날짜|과제|
-|------|---|
-|0912|<a href="https://baesub.github.io/Tue_Report/0912/first_figma.html">Figma로 페이지 3개 기획하기</a>|
-|0919|<a href="https://baesub.github.io/Tue_Report/0919/sourcecode/index.html">홍길동의 이력서 css 편집하기</a>|
-|0926|<a href="https://baesub.github.io/Tue_Report/0926/ch04_mportpolio/mintro.html">HTML5 개인 포트폴리오 홈페이지 css 편집하기</a>|
-|1010|<a href="https://baesub.github.io/Tue_Report/1010/mintro.html">HTML5 개인 포트폴리오 홈페이지 header에 js 넣기</a>|
+### 깃허브에서 자바스크립트가 적용되어 나오지 않아 시연 영상 파일을 업로드 해두었습니다. <br> 소스코드와 함께 업로드 되어있는 영상 파일 시청 부탁드립니다.
+# <a href="https://baesub.github.io/Tue_Report/1010/ch04_mportpolio/mintro.html"> Github </a>
+
+# 변경 (추가한) 코드
+![image](https://github.com/baesub/Tue_Report/assets/113866062/7b19ac3e-c031-4c8e-a0f2-ea01a279c5e6)
+# min.css 추가 수정
+![image](https://github.com/baesub/Tue_Report/assets/113866062/63b393e4-9803-4d77-995c-71a9a5e5a620)
+
