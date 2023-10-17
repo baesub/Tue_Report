@@ -10,4 +10,5 @@
 2. 스크립트 파일을 ctrl + 클릭하여 파일 연 후 다른 이름으로 저장 -> lib 폴더 안에 저장
 3. 스크립트 파일을 상대 파일 경로로 수정
 
+### 완성
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/deff4cf1-3bee-4576-b0c3-754a21287417)
