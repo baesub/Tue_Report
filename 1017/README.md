@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=모바일%20학과소개%20사이트&fontSize=40)
 
-# <a href="https://baesub.github.io/Tue_Report/0926/ch04_mportpolio/mintro.html"> Github </a>  
+# <a href="https://baesub.github.io/Tue_Report/1017/ch08_dokdoApp/dokdo-intro.html"> Github </a>  
 
-# 독도 모바일 레퍼런스를 사용하여 우리 학과 소개 사이트로 변경하였습니다.
+### ☑️ 독도 모바일 레퍼런스를 사용하여 우리 학과 소개 사이트로 변경하였습니다.
 
-## intro
+## intro: 메뉴 구성 - 학과소개, 교육과정, 협력업체, 오시는길
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/1ffe16ad-b4ec-49a9-a391-ee0dfa836445)
 
 ## 학과소개 - 학과안내, 수업방식, 졸업 후 진로
