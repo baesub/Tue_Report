@@ -13,7 +13,7 @@
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/7a05353e-c70e-47b4-b346-a9130a7a5a9e)
 
 ## 교육과정 - 2021학년도 기준 소프트웨어전공 교과목, 2020 컴퓨터정보융합과 홍보 영상 첨부
-![image](https://github.com/baesub/Tue_Report/assets/113866062/47c74dc0-b488-401f-b1c9-c1b7418e568b)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/f02f4be2-e2c8-4427-967d-72359f283285)
 
 ## 협력업체 - 산학협력 업체 목록
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/5c835a62-a1e8-4491-be03-a8b119e693f6)
