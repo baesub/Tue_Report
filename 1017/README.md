@@ -4,6 +4,8 @@
 
 ### ☑️ 독도 모바일 레퍼런스를 사용하여 우리 학과 소개 사이트로 변경하였습니다.
 
+---
+
 ## intro: 메뉴 구성 - 학과소개, 교육과정, 협력업체, 오시는길
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/1ffe16ad-b4ec-49a9-a391-ee0dfa836445)
 
