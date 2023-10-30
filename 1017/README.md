@@ -22,3 +22,4 @@
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/a804b0e6-2b98-4d47-aa49-9e3aede44e8c)
 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
