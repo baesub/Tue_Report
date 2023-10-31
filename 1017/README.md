@@ -18,7 +18,8 @@
 
 
 ## 협력업체 - 산학협력 업체 목록
-![image](https://github.com/baesub/Tue_Report/assets/113866062/aa14fd7a-eaf4-44d3-9d5e-5fe349899d46)![image](https://github.com/baesub/Tue_Report/assets/113866062/acd9f4a5-dc95-4e7d-9c8b-afc38763687f)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/aa14fd7a-eaf4-44d3-9d5e-5fe349899d46)
+![image](https://github.com/baesub/Tue_Report/assets/113866062/acd9f4a5-dc95-4e7d-9c8b-afc38763687f)
 
 
 ## 오시는길 - 찾아오시는 길 (카카오 지도 첨부)
