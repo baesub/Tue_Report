@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "ch08_dokdoApp",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
