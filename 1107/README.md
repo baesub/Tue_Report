@@ -1,4 +1,4 @@
-
+![image](https://github.com/baesub/Tue_Report/assets/113866062/7c9ce8e7-01ab-425a-8b4c-fc74acc42fdd)
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&text=2023.%2011.%2007.%20&fontAlign=70&rotate=8&fontSize=70&fontAlignY=25&AlignY=44)
 
 # pyScript & bunScript
@@ -97,7 +97,14 @@ Bun은 다음과 같은 3가지 주요 설계 목표를 가지고 만들어졌�
 ## ⚠️주의사항
 Bun은 JavaScriptCore 엔진을 사용하고 저수준 언어인 Zig로 최적화를 진행하였기에 노드에 비해 월등한 성능을 자랑합니다. 하지만, 그럼에도 불구하고 아직까지 노드의 API를 100% 지원하지 못하고, 안정적인 버전에 들어가지 못하였기에 실제 프로젝트(사이드 프로젝트도 포함)에서 사용하기에는 적합하지 못하다고 생각됩니다.
 
-# js, jQuery로 갤러리 구현하기
+# js, jQuery 갤러리 구현하기
 
-# <a href="https://baesub.github.io/Tue_Report/0919/sourcecode/index.html"> Github </a>
+## 자바스크립트로 학과 갤러리 구현
+![image](https://github.com/baesub/Tue_Report/assets/113866062/f3ffdde1-5a74-4715-833c-efc709224b61)
+
+## 제이쿼리로 학과 갤러리 구현
+![image](https://github.com/baesub/Tue_Report/assets/113866062/6119489e-e3a8-4dfa-9497-4f07bf959ccc)
+
+
+# <a href="https://baesub.github.io/Tue_Report/1107/ch08_dokdoApp/dokdo-intro.html"> Github </a>
 
