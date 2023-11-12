@@ -1,5 +1,5 @@
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&text=2023%201107%20&fontAlign=70&rotate=8&fontSize=50&fontAlignY=25&AlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&text=2023.%2011.%2007.%20&fontAlign=70&rotate=8&fontSize=70&fontAlignY=25&AlignY=44)
 
 # pyScript & bunScript
 # 📒pyScript
