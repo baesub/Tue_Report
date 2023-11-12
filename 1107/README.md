@@ -1,5 +1,4 @@
-![image](https://github.com/baesub/Tue_Report/assets/113866062/7c9ce8e7-01ab-425a-8b4c-fc74acc42fdd)
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&text=2023.%2011.%2007.%20&fontAlign=70&rotate=8&fontSize=70&fontAlignY=25&AlignY=44)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=HTML5%202023.%2011.%2007.fontSize=30)
 
 # pyScript & bunScript
 # 📒pyScript
