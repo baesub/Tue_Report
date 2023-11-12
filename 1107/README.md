@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=HTML5%202023.%2011.%2007.fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2023.%2011.%2007.&fontSize=20)
 
 # pyScript & bunScript
 # 📒pyScript
