@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2023.%2011.%2022.&fontSize=72)
 
 
-### 카카오 api를 사용하여 사용자가 입력한 지역의 정보 및 위치의 <br> 명소 추천 기능과 함께 간단한 모바일 웹사이트를 제작하였습니다.
+### 카카오 api를 사용하여 사용자가 입력한 위치의 정보 및 카테고리 기능과 함께 <br> 간단한 모바일 웹사이트를 제작하였습니다.
 
 # <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
 
@@ -13,7 +13,7 @@
 
 # 📱 프로젝트 결과 (project.html)
 
-### 카카오의 지도 서비스를 통해 검색한 도시(위치)의 정보 및 여행 여행 명소, 카테고리를 보여주고, 추천해줍니다.
+### 카카오의 지도 서비스를 통해 검색한 위치의 주소를 알려주고, 추가적인 도시 정보를 보여줍니다. 
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/0a804afd-4d31-4846-b2c9-584c101e6f09)
 
 ### 사용자가 위치 명을 입력하지 않을 시, 실행되는 오류 문구입니다.
