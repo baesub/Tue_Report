@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2023.%2011.%2014.&fontSize=72)
 
 
-## 카카오 api를 사용하여 사용자가 검색한 위치의  <br>정보및 카테고리를 불러오는 기능과 함께 간단한 웹사이트를 제작하였습니다.
+## 카카오 api를 사용하여 사용자가 검색한 위치의  <br>정보 및 카테고리를 불러오는 기능과 함께 간단한 웹사이트를 제작하였습니다.
 
 # <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
 
