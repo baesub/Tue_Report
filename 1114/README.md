@@ -6,9 +6,9 @@
 # <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
 
 # 🌑 카카오
-#### Reference: 카카오 공식 홈페이지
+### Reference: 카카오 공식 홈페이지
 
-### kakao developers - Api키 발급
+## kakao developers - Api키 발급
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/78ed022d-ea73-4daf-967c-3fab68f525a8)
 
 # 📱 프로젝트 결과 (project.html)
