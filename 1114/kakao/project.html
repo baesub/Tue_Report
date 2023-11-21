@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Kakao City Info</title>
+</head>
+<body>
+
+    <header>
+        <div class="header-container">
+          <h1>Kakao</h1>
+          <nav>
+            <ul>
+              <li><a href="home.html">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="project.html">Project</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+    
+  <h1 style="font-size:26px; border-radius: 50px;">Kakao api를 사용한 명소 추천</h1>
+  <label for="cityInput">도시 및 위치 입력:</label>
+  <input type="text" id="cityInput">
+  <button onclick="getCityInfo()">확인</button>
+  <br><br><br><br>
+  <div id="cityInfo"></div>
+  <script src="script.js"></script>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
+  <footer>
+    <div class="footer-container">
+      <p>&copy; 2023 BAESUBIN. All rights reserved.</p>
+    </div>
+  </footer>
+
+
+</body>
+</html>

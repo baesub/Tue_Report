@@ -1,0 +1,569 @@
+/* styles.css */
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f6f6f6;
+}
+
+h1 {
+  text-align: center;
+  padding: 25px;
+  color: #3c3c3c;
+  background-color: #ffeb00;
+  margin: 0;
+ 
+}
+
+label {
+  display: block;
+  font-size: 1.2em;
+  margin: 10px;
+  color: #3c3c3c;
+}
+
+input {
+  width: calc(100% - 20px);
+  padding: 10px;
+  font-size: 1em;
+  margin: 0 10px 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+button {
+  width: calc(100% - 20px);
+  padding: 10px;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: #ffeb00;
+  color: #3c3c3c;
+  border: none;
+  margin: 0 10px 20px;
+  box-sizing: border-box;
+}
+
+
+#cityInfo {
+  background-color: #fff;
+  padding: 50px;
+  margin: 0 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 21px;
+}
+
+@media (min-width: 600px) {
+  body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  header {
+    background-color: #ffeb00;
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 100%;
+    z-index: 2; /* 헤더를 본문 위로 올리기 */
+  }
+
+  .header-container {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  h1 {
+    color: #3c3c3c;
+    font-size: 2.2em;
+    margin: 0;
+  }
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+
+  nav ul li {
+    margin-right: 55px;
+  }
+
+  nav ul li a {
+    text-decoration: none;
+    color: #3c3c3c;
+    font-size: 1.3em;
+  }
+
+  label, input, button {
+    margin-top: 60px; /* 헤더의 높이만큼 여백 추가 */
+    font-size: 25px;
+  }
+}
+
+.img1 {
+  border-radius: 2%;
+}
+
+@media (min-width: 600px) {
+  /* 미디어 쿼리를 사용하여 화면이 600px 이상일 때 스타일 적용 */
+  body {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  footer {
+    background-color: #21233a;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 100%;;
+  }
+  
+  .footer-container {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 600px) {
+    nav {
+      display: block;
+    }
+  
+    nav ul {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    nav ul li {
+      margin-bottom: 10px;
+    }
+  
+    main {
+      padding: 0 20px;
+    }
+  }
+
+/*  */
+
+
+.kakao-header {
+  background-color: #ffe600;
+  padding: 20px 0;
+}
+
+.kakao-header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.kakao-header h1 {
+  color: #3c3c3c;
+  font-size: 1.8em;
+  margin: 0;
+}
+
+.kakao-header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.kakao-header nav ul li {
+  margin-right: 20px;
+}
+
+.kakao-header nav ul li a {
+  text-decoration: none;
+  color: #3c3c3c;
+  font-size: 1.2em;
+}
+
+.kakao-main {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+#bannerTitle {
+  font-size: 40px;
+}
+
+#bannerText {
+  font-size: 25px;
+}
+
+#kakao-company-info {
+  margin-bottom: 40px;
+}
+
+#kakao-company-info h2 {
+  color: #3c3c3c;
+  font-size: 1.5em;
+  padding-top: 20px;
+}
+
+#kakao-advantages-banner {
+  background-color: #443b24;
+  color: #fff;
+  padding: 40px 0;
+  text-align: center;
+
+}
+
+.kakao-advantages-content {
+  max-width: 600px;
+  margin: 0 auto;
+  
+}
+
+#kakao-advantages-banner h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+#kakao-featured-projects {
+  margin-bottom: 40px;
+}
+
+#kakao-featured-projects h2 {
+  color: #3c3c3c;
+  font-size: 1.5em;
+}
+
+#kakao-featured-projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+#kakao-featured-projects li {
+  color: #3c3c3c;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.kakao-footer {
+  background-color: #3b3b3b;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.kakao-footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* 0 */
+
+body {
+  padding-top: 180px;
+}
+
+.kakao-header {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px 0;
+}
+
+.kakao-header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.kakao-header h1 {
+  color: #3c3c3c;
+  font-size: 1.8em;
+  margin: 0;
+}
+
+.kakao-header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.kakao-header nav ul li {
+  margin-right: 20px;
+}
+
+.kakao-header nav ul li a {
+  text-decoration: none;
+  color: #3c3c3c;
+  font-size: 1.2em;
+}
+
+.kakao-main {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+.main-banner {
+  position: relative;
+  
+}
+
+.main-banner img {
+  width: 100%;
+}
+
+.banner-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #fff;
+}
+
+.banner-content h2 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.banner-content p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #21233a;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.5em;
+  border-radius: 5px;
+}
+
+.cta-button:hover {
+  background-color: #ffae00;
+  color: black;
+}
+
+.kakao-services {
+  margin-top: 40px;
+}
+
+.service-card {
+  background-color: #fff;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  border-radius: 2%;
+}
+
+.service-card img {
+  max-width: 100px;
+  margin-bottom: 10px;
+}
+
+
+.kakaotalk {
+  padding: 10px 20px;
+  width: 25%;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #ffbd06;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.kakaotalk:hover {
+  background-color: #503700;
+}
+
+.ka1 {
+  font-size: 30px;
+}
+
+/* contact */
+
+
+
+.contact-header {
+  background-color: #462a00;
+  padding: 20px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.contact-header-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contact-header h1 {
+  color: #fff;
+  font-size: 1.8em;
+  margin: 0;
+}
+
+.contact-header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.contact-header nav ul li {
+  margin-right: 20px;
+}
+
+.contact-header nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2em;
+}
+
+.contact-main {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+.contact-form {
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.contact-form h2 {
+  color: #381900;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.contact-form label {
+  display: block;
+  font-size: 1.2em;
+  margin: 10px;
+  color: #3c3c3c;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: calc(100% - 20px);
+  padding: 10px;
+  font-size: 1em;
+  margin: 0 10px 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+.contact-form button {
+  width: calc(100% - 20px);
+  padding: 10px;
+  font-size: 1em;
+  cursor: pointer;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  margin: 0 10px 20px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.contact-form button:hover {
+  background-color: #b99329;
+}
+
+.contact-footer {
+  background-color: #6b3400;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.contact-footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* about */
+
+
+
+.image-section {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.image-container {
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.text-container {
+  padding: 20px;
+  background-color: #f6f6f6;
+  border-radius: 8px;
+}
+
+.text-container h2 {
+  color: #3c3c3c;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.text-container p {
+  color: #666;
+  font-size: 1.2em;
+  line-height: 1.6;
+}
+
+/* 미디어 쿼리 추가 */
+@media (max-width: 600px) {
+  .image-section {
+      flex-direction: column;
+  }
+
+  .text-container {
+      margin-top: 20px; /* 이미지와의 간격 조절 */
+  }
+}
+
+}
