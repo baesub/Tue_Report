@@ -5,7 +5,7 @@
 
 # <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
 
-# 🍂 카카오
+# 🌑 카카오
 #### Reference: 카카오 공식 홈페이지
 
 ### kakao developers - Api키 발급
@@ -13,7 +13,7 @@
 
 # 📱 프로젝트 결과 (project.html)
 
-### 카카오의 지도 서비스를 통해 검색한 위치의 주소를 알려주고, 추가적인 도시 정보를 보여줍니다. 
+## 카카오의 지도 서비스를 통해 <br>  검색한 위치의 주소를 알려주고, 추가적인 도시 정보(카테고리)를 보여줍니다. 
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/0a804afd-4d31-4846-b2c9-584c101e6f09)
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/5639d1da-a46c-45cc-99ad-bee6d125a816)
 
@@ -35,3 +35,5 @@
 
 ## contact.html
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/0aca29f0-427f-48d4-b56c-25c5ef58b358)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
