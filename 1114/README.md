@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=2023.%2011.%2014.&fontSize=72)
 
 
-## 카카오 api를 사용하여 사용자가 입력한 위치의  <br>주소 및 카테고리를 불러오는 기능과 함께 간단한 웹사이트를 제작하였습니다.
+## 카카오 api를 사용하여 사용자가 입력한 위치의  <br>정보및 카테고리를 불러오는 기능과 함께 간단한 웹사이트를 제작하였습니다.
 
 # <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
 
@@ -13,7 +13,7 @@
 
 # 📱 프로젝트 결과 (project.html)
 
-## 카카오의 지도 서비스를 통해 <br>  검색한 위치의 도시 정보와 카테고리를 보여줍니다. 
+## 카카오의 지도 서비스를 통해 <br>  검색한 위치의 정보와 카테고리를 보여줍니다. 
 #### 지역 명
 ![image](https://github.com/baesub/Tue_Report/assets/113866062/0a804afd-4d31-4846-b2c9-584c101e6f09)
 #### 건물 명
