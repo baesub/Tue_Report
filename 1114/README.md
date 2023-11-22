@@ -5,40 +5,46 @@
 
 # <a href="https://baesub.github.io/Tue_Report/1114/kakao/home.html"> 바로가기 </a>
 
-# 🟡 카카오
+# 🟡kakao WebSite
 ### Reference: 카카오 공식 홈페이지
 
 ## kakao developers - Api키 발급
-![image](https://github.com/baesub/Tue_Report/assets/113866062/78ed022d-ea73-4daf-967c-3fab68f525a8)
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/a3663cbb-635b-4fac-b8eb-bab83c39816d">
+
+
 
 # 📱 프로젝트 결과 (project.html)
 
 ## 카카오의 지도 서비스를 통해 <br>  검색한 위치의 정보와 카테고리를 보여줍니다. 
-#### 지역 명
-![image](https://github.com/baesub/Tue_Report/assets/113866062/0a804afd-4d31-4846-b2c9-584c101e6f09)
-#### 건물 명
-![image](https://github.com/baesub/Tue_Report/assets/113866062/64ff94c4-f231-4651-8cb2-2fb5e9e52777)
+### 지역 명
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/942b9418-a1e8-4306-8507-627a54b40cd5">
+
+
+### 건물 명
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/e888c935-e0d8-400b-b55c-eed40f0d1b76">
+
+
 #### ☑️ 이외에도 여러 키워드로 검색이 가능합니다.
 
-
-### 사용자가 위치 명을 입력하지 않을 시, 실행되는 오류 문구입니다.
-![image](https://github.com/baesub/Tue_Report/assets/113866062/03824d54-13ce-4b0c-9199-b249f300d8ab)
+### 사용자가 위치 미입력 시, 실행되는 오류 문구입니다.
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/87abeb34-6aa7-4e96-95a4-922b36ed9a84">
 
 ### 사용자가 잘못된 위치 명을 입력할 시, 실행되는 오류 문구입니다.
-![image](https://github.com/baesub/Tue_Report/assets/113866062/6f905c85-1316-4b6b-a1f5-1c5ea5543484)
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/581d5176-dc7b-4cc1-8f93-074072aa1468">
 
-# 🟢 완성 파일
+
+# 🟢완성 파일
 
 ## home.html
-![image](https://github.com/baesub/Tue_Report/assets/113866062/62046bcd-85f2-4daf-b5a4-c8b62cafac9b)
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/0189e7ec-ae7c-4f13-a071-2e4dc0e32a8b">
 
 ## about.html
-![image](https://github.com/baesub/Tue_Report/assets/113866062/169abbda-3c80-4edb-852a-e399b19a0886)
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/2450a41f-3927-4f9c-85ef-23907b8eb979">
 
 ## project.html
-![image](https://github.com/baesub/Tue_Report/assets/113866062/2aea0edb-06c1-4092-85e0-29ef404038af)
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/d5ac46dd-a138-4f38-ae2c-f90a07f13fbe">
 
 ## contact.html
-![image](https://github.com/baesub/Tue_Report/assets/113866062/0aca29f0-427f-48d4-b56c-25c5ef58b358)
+<img width="496" alt="image" src="https://github.com/baesub/Tue_Report/assets/113866062/92b89cd8-e786-4f20-8fa1-dd72f1774509">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
